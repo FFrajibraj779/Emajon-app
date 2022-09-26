@@ -1,0 +1,38 @@
+.single-product{
+width: 300px;
+height: 500px;
+position: relative;
+border: 1px solid #95A0A7;
+border-radius: 8px;
+margin: 20px;
+padding: 8px;
+}
+
+.single-product img{
+    max-width: 100%;
+}
+.single-product h2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.single-product p{
+    margin-top: 0;
+}
+
+.cart-btn button{
+position: absolute;
+bottom: 0;
+width: 100%;
+background: #FFE0B3;
+border: 1px solid #95A0A7;
+border-radius: 0px 0px 8px 8px;
+padding: 10px 0;
+
+}
+.cart-btn{
+    margin-left: -8px;
+}
+
+.cart-btn button:hover{
+    background-color: orange;
+}
