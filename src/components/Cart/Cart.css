@@ -1,0 +1,23 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.cart h5{
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 0;
+    font-weight: bold;
+    
+}
+.cart h6{
+    margin-top: 8px;
+    font-size: 18px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.cart p{
+    padding-left: 5px;
+    font-weight: bold;
+}

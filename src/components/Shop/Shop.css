@@ -8,5 +8,6 @@
   grid-template-columns: repeat(3, 1fr);
 }
 .order-container{
-    background-color: blue;
+    background-color:rgba(255, 153, 0, 0.3);
+    ;
 }
